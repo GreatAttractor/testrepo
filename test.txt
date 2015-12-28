@@ -1,0 +1,2 @@
+Test of UTF-8 encoding in text file.
+ZAŻÓŁĆ GĘŚLĄ JAŹŃ: zażółć gęślą jaźń.
