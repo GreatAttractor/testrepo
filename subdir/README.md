@@ -1,2 +1,2 @@
 Readme in subdirectory.
-Open [demo](demo/demo.html).
+Open [demo](greatattractor.github.io/testrepo/demo/demo.html).
