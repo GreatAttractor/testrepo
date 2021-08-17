@@ -20,3 +20,5 @@ Go to [subdir](subdir/README.md).
   - **category 2**
     - item 1
     - item 2
+
+New line.
